@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name     = 'JPSVolumeButtonHandler@SpoonConsulting'
   s.version  = '1.0.6'
-  s.platform = :ios, "7.0"
+  s.platform = :ios, "11.0"
   s.license  = 'MIT'
   s.summary  = 'JPSVolumeButtonHandler provides an easy block interface to hardware volume buttons on iOS devices. Perfect for camera apps!'
   s.homepage = 'https://github.com/spoonconsulting/JPSVolumeButtonHandler'
